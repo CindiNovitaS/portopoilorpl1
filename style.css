@@ -1,0 +1,20 @@
+body {
+ min-height: 3000px;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    color: black;
+
+        }
+
+        #projects {
+            background-color: antiquewhite;
+        }
+
+        section {
+            padding-top: 5rem;
+        }
